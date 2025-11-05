@@ -1,10 +1,22 @@
 # Recursos
-## Enlaces y recursos de Profesores y Alumnos
+
+## Concursos, Hackatons, etc.
+
+| Nombre + Enlace  | Descripción/Notas  | Autor/Donante  |  
+|---|---|---|
+| [InnovaTech FP 25-26](https://www.edu.xunta.gal/portal/node/48192) | Convocatoria InnovaTech | Daniel Espiñeira |
+| [Edición anterior Innovatech](https://cgifp.gal/innovatechfp/) | Edición 24-25 | Mou / Gco. |
+| [HackUDC](https://hackudc.gpul.org/) | HackUDC (27 Feb - 1 Mar 2026) | Mou |
+
+
+
+## Enlaces y recursos (eBooks, manuales/tutoriales online, vídeos, etc.)
 
 | Nombre + Enlace  | Descripción/Notas  | Autor/Donante  |  
 |---|---|---|
 | [Basic Tools](https://bigdatawirtz.github.io/basic-tools/) | Guías/Manuales básicos WSL, Git/Github, Docker, Markdown, SSH, Python, YAML, OpenStack | Daniel Espiñeira  | 
-| Otro  | otro  | Miguel Ángel Cruz  |
+
+| Nombre + Enlace  | Descripción/Notas  | Autor/Donante  |  
 |---|---|---|
 | [Hands-on Machine Learning](https://drive.google.com/file/d/1d6wRrgzY-UpSShUDkCOqw-5SkmHaIdIX/view?usp=sharing)   |  (PDF) Hands-on Machine Learning | Fran  |
 | [Las bases de big data y de la inteligencia artificial](https://drive.google.com/file/d/1MagbBB1uS3hRuYxGChJK6qk01W3vtIvm/view?usp=sharing)  | (ePub) Las bases de big data y de la inteligencia artificial -- Enrique Martín, Rafael Caballero -- Catarata (Los Libros de la Catarata), Madrid, 2022. | Fran |
