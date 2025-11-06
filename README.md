@@ -27,6 +27,13 @@
 | [Mega Folder](https://mega.nz/folder/7ctAnBTZ#PbIFGiVpjfPJBb3GgHiPUw) | Colección de libros de Matemáticas, BBDD, Lenguajes de Programación, Big Data, IA, SSOO, etc. | Fran |
 | [Biblioteca Secreta](https://telegra.ph/Biblioteca-Secreta-09-29) | Enlaces Telegram eBooks | Mou |
 | [Anna's Archive (LibGen)](https://es.annas-archive.li/)| Buscador de enlaces LibGen | Fran |
-| [Discord UAIB1](https://discord.gg/mmW37Bas) | Canal Discord para clase UAIB1 | AS CRAWLER |
+| [Discord UAIB1](https://discord.gg/7ynvZAss) | Canal Discord para clase UAIB1 | AS CRAWLER |
 | [Matrices en Redes Neuronales](https://blog.tenea.com/matrices-redes-neuronales/) | Uso de Matrices para Redes Neuronales (blog post) | AS CRAWLER |
- 
+
+ ## Descuentos, ofertas, cupones, etc.
+| Nombre + Enlace  | Descripción/Notas  | Autor/Donante  |  
+|---|---|---|
+| [Pendiente] | Tarjeta estudiante internacional | Mou |
+| [VPS Racknerd](https://www.racknerd.com/11-11/) | Oferta VPS (Recom. 2GB RAM para Minikube, etc.) | Gco. |
+| [Porkbun Domains](https://porkbun.com/)| Ofertas en nombres de dominio (Click en "SALE!") | Gco. |
+
