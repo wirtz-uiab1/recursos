@@ -33,6 +33,7 @@
  ## Descuentos, ofertas, cupones, etc.
 | Nombre + Enlace  | Descripción/Notas  | Autor/Donante  |  
 |---|---|---|
+| [Museos GRATIS Coruña](https://www.coruna.gal/mc2/es/detalle/semana-de-la-ciencia-2025/suceso/1453904704965)  | 8 Nov～16 Nov 2025 (Semana da Ciencia 2025) | Mou  |
 | [Pendiente] | Tarjeta estudiante internacional | Mou |
 | [VPS Racknerd](https://www.racknerd.com/11-11/) | Oferta VPS (Recom. 2GB RAM para Minikube, etc.) | Gco. |
 | [Porkbun Domains](https://porkbun.com/)| Ofertas en nombres de dominio (Click en "SALE!") | Gco. |
